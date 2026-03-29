@@ -1,3 +1,3 @@
-"# DevOps Lab 1" 
-"## Git lab" 
-"- Студент: [Alima]" 
+git add .
+git commit -m "Test webhook automation"
+git push origin main
